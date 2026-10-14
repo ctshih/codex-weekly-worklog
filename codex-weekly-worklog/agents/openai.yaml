@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 工作週報"
+  short_description: "預設整理七個完整日的工作週報，含交付摘要、逐日及子代理用量，支援指定日報"
+  default_prompt: "使用 $codex-weekly-worklog 產生截至昨天的七天工作週報。"
